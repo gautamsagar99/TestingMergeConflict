@@ -24,5 +24,5 @@ this is ordered list
 3.okay
 
 
-this line may lead to conflict.
+~~strike this line~~
 
